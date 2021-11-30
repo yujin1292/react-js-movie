@@ -24,7 +24,7 @@ function Detail(){
     return(
     <div>
     {loading ?
-        (<div className={styles.loader}><span>is Loading...</span></div>)
+        (<div className={styles.loader}><span>Loading...</span></div>)
         :
        ( 
        <div>
