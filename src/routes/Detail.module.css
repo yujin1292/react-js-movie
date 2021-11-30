@@ -14,8 +14,8 @@
 }
 
 .detail{ 
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     display: table-row;
     position: relative;
     margin: 30px;
@@ -26,8 +26,8 @@
     margin-left: 100px;
 }
 .img{
-    width: 450px;
-    height: 600px;
+    width: auto;
+    height: 500px;
 }
 .wrapper{
     position: relative;
