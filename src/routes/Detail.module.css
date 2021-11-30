@@ -14,8 +14,8 @@
 }
 
 .detail{ 
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     display: table-row;
     position: relative;
     margin: 30px;
@@ -24,7 +24,11 @@
     color: white;
     margin-right: 100px;
     margin-left: 100px;
+    overflow: auto;
+    -ms-overflow-style: none;
 }
+.detail::-webkit-scrollbar{ display:none; }
+
 .img{
     width: auto;
     height: 400px;
