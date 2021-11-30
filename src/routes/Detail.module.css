@@ -14,8 +14,8 @@
 }
 
 .detail{ 
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     display: table-row;
     position: relative;
     margin: 30px;
@@ -27,7 +27,7 @@
 }
 .img{
     width: auto;
-    height: 500px;
+    height: 400px;
 }
 .wrapper{
     position: relative;
@@ -55,7 +55,7 @@
     transform: translate(-50%, -50%);
     width: 100%;
     margin: 0px;
-    font-size: 100px;
+    font-size: 90px;
     color: white;
 }
 
